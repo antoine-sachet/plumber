@@ -41,6 +41,8 @@ plumber 0.5.0
 
 ### Minor new features and improvements
 
+* The `curl` CLI tool is now installed in the `trestletech/plumber` docker image. ([#457](https://github.com/trestletech/plumber/issues/457))
+
 * If cookie information is too large (> 4093 bytes), a warning will be displayed. ([#404](https://github.com/trestletech/plumber/pull/404))
 
 * Added new shorthand types for url parameters. (@byzheng, [#388](https://github.com/trestletech/plumber/pull/388))
